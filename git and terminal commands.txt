@@ -1,0 +1,12 @@
+cd: changes directory
+ls: lists all files in directory (use dir for windows)
+..: goes up a directory
+git clone "url": clones a git repository to your local machine
+git status: shows the status of the git repo
+git add -A: adds all files to the get repo to be committed
+git commit -m "message": commits changes to local repo
+git push: pushes changes to github.com
+git pull: pulls changes from github.com
+git config --list: shows all configurations for local repo
+git config --global user.name "username": Allows for you to change the user name that you push or pull to github with
+git config --global user.email "email" : Changes email that you push or pull to github with
